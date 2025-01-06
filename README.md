@@ -1,4 +1,4 @@
-assignment(s)
+Assignment(s)
 
 Assignment 1(POSTER ):<br/>
 
